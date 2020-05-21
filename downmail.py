@@ -17,8 +17,8 @@ subject = "An email with attachment from Python"
 body = "This is an email with attachment sent from Python"
 sender_email = "YOUR_MAIL@gmail.com"                                #turn the 2 step verification off and alloww access to less secure apps in google account
 receiver_email = "RECEIVER_MAIL@gmail.com"
-#password = input("Type your password and press enter:")
-password = 'YOUR_PASSWORD'
+password = input("Type your password and press enter:")
+#password = 'YOUR_PASSWORD'
 
 # Create a multipart message and set headers
 message = MIMEMultipart()
