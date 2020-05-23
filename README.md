@@ -1,4 +1,4 @@
-# Download-Attach-Mail
+# Download-Attach-Mail-Automation
 This project automates the file downloads and mailing feature using python version 3.7.4.
 
 Inputs Required: Sender's email, Receiver's email, Sender's Password, File Download URL
